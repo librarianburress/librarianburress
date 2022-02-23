@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @librarianburress, Science Librarian and Assistant Director of Research & Instruction for the Nelson Poynter Memorial Library at University of South Florida
-- 👀 I’m interested in open access tools
+- 👀 I’m interested in open access tools that are useful for student researchers
 - 🌱 I’m currently learning a bit about ArcGIS StoryMaps and GitHub
 - 📫 How to reach me at work: tburress@usf.edu
 
